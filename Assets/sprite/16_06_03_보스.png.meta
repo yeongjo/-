@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: f49a689ed60170a4fb8cf67cfed218e6
+timeCreated: 1465684975
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "16_06_03_\uBCF4\uC2A4_0"
+    21300002: "16_06_03_\uBCF4\uC2A4_1"
+    21300004: "16_06_03_\uBCF4\uC2A4_2"
+    21300006: "16_06_03_\uBCF4\uC2A4_3"
+    21300008: "16_06_03_\uBCF4\uC2A4_4"
+    21300010: "16_06_03_\uBCF4\uC2A4_5"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "16_06_03_\uBCF4\uC2A4_0"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "16_06_03_\uBCF4\uC2A4_1"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "16_06_03_\uBCF4\uC2A4_4"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 34
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "16_06_03_\uBCF4\uC2A4_5"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.4190079, y: 0.00000021192763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
